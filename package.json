@@ -1,0 +1,27 @@
+{
+  "name": "stream-joint",
+  "version": "1.0.0",
+  "description": "Pipe writable streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelCastillo/stream-joint.git"
+  },
+  "keywords": [
+    "streams",
+    "merge streams",
+    "pipe streams"
+  ],
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelCastillo/stream-joint/issues"
+  },
+  "homepage": "https://github.com/MiguelCastillo/stream-joint",
+  "dependencies": {
+    "through": "^2.3.8"
+  }
+}
